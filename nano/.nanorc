@@ -1,0 +1,5 @@
+# .nanorc
+# initialization file for GNU nano
+
+set softwrap
+
