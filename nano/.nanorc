@@ -1,6 +1,7 @@
 # .nanorc
 # initialization file for GNU nano
 
+# attempt to display the entire contents of a line if wider than screen width by wrapping to the next
 set softwrap
 
 set smooth
