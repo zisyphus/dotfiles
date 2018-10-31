@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# main driver of automatic bootstrapping
+
 cd "$(dirname "${BASH_SOURCE}")";
 
 git pull origin master;
