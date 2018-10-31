@@ -3,4 +3,5 @@
 
 set softwrap
 
+# scroll text line-by-line instead of chunk-by-chunk
 set smooth
