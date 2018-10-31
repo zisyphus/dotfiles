@@ -1,3 +1,4 @@
 # .screenrc
 
+# Ensure carriage returns are not prepended (default should be off, but just in case)
 crlf off
